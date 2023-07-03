@@ -1985,10 +1985,10 @@ footer .support ul li a:hover {
   }
 
   .footer-black{
-    background-color: #181818;
+    background-color: #181818 !important;
   }
 
   .footer-text{
-    color: white;
+    color: white !important;
   }
 }
