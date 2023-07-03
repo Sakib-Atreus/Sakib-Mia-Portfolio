@@ -886,7 +886,7 @@ const projectData = [
     title: "Toy Emporium",
     subTitle:
       "You can easily generate secure and random passwords using this simple tool.",
-    thumbnail: "./img/toy.png",
+    thumbnail: "../img/toy.png",
     description:
       "Through This website, You actually use tailwind For UI. and hosting by Firebase and Vercel. The site is created by React app. And added a database to the site. Javascript was used for all internal mechanism.",
     techStack: ["ReactJS", "ExpressJS", "NodeJS", "MongoDB"],

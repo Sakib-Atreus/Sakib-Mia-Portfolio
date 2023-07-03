@@ -979,19 +979,19 @@ h6 {
 }
 
 .col3 .github {
-  background-image: url("/img/icon/github.png");
+  background-image: url("./img/icon/github.png");
 }
 .col3 .stack-overflow {
-  background-image: url("/img/icon/stack-overflow.png");
+  background-image: url("./img/icon/stack-overflow.png");
 }
 .col3 .linkedin {
-  background-image: url("/img/icon/linkedin.png");
+  background-image: url("./img/icon/linkedin.png");
 }
 .col3 .twitter {
-  background-image: url("/img/icon/twitter.png");
+  background-image: url("./img/icon/twitter.png");
 }
 .col3 .facebook {
-  background-image: url("/img/icon/facebook.png");
+  background-image: url("./img/icon/facebook.png");
 }
 
 #intro .button {
