@@ -886,7 +886,7 @@ const projectData = [
     title: "Toy Emporium",
     subTitle:
       "You can easily generate secure and random passwords using this simple tool.",
-    thumbnail: "../img/toy.png",
+    thumbnail: "/img/toy.png",
     description:
       "Through This website, You actually use tailwind For UI. and hosting by Firebase and Vercel. The site is created by React app. And added a database to the site. Javascript was used for all internal mechanism.",
     techStack: ["ReactJS", "ExpressJS", "NodeJS", "MongoDB"],
@@ -897,7 +897,7 @@ const projectData = [
     title: "Evolve Soft",
     subTitle:
       "Unlock the power of your mind with our AI-Driven mental health web application",
-    thumbnail: "../img/evolve.png",
+    thumbnail: "/img/evolve.png",
     description:
       "A simple React and Javascript project. A job portal website. You can find all kind of it related jobs at here from renowned companies. Also you can apply remote or onsite jobs. Fully mobile first Responsive.",
     techStack: ["JS", "React", "Tailwind"],
@@ -907,7 +907,7 @@ const projectData = [
   {
     title: "Yoga Delight",
     subTitle: "Gain insights and strengthen your GitHub connections",
-    thumbnail: "../img/yoga.png",
+    thumbnail: "/img/yoga.png",
     description:
       "Through this website, we used here tailwind and Daisy UI to make it awesome. As similar we used Firebase and Vercel for hosting. Create a database and Maintain all mechanisms by JavaScript. From this website, You can choose any classes from any instructor of Yoga.",
     techStack: ["ReactJS", "ExpressJS", "NodeJS", "MongoDB"],
