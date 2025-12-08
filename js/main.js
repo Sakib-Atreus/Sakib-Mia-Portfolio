@@ -781,10 +781,10 @@ function progressIndicator() {
 setTimeout(() => {
   new Typewriter(".typing-text", {
     strings: [
+      "Software Engineer",
       "MERN Stack Developer",
-      "React Developer",
       "Web Developer",
-      "Front-End Developer"
+      "Back-End Developer"
     ],
     autoStart: true,
     loop: true,
