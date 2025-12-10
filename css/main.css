@@ -668,35 +668,71 @@ h6 {
 
 /*Icons - Programming Languages & Frameworks */
 
-#skills .container .div-card .mongodb {
-  background-image: url("../img/icon/mongodb.png");
-}
-#skills .container .div-card .node-js {
-  background-image: url("../img/icon/node-js.png");
-}
-#skills .container .div-card .express-js {
-  background-image: url("../img/icon/express-js.png");
-}
 #skills .container .div-card .html {
   background-image: url("../img/icon/html-5.png");
 }
 #skills .container .div-card .css {
   background-image: url("../img/icon/css-3.png");
 }
+
+/*dev lang*/
 #skills .container .div-card .js {
   background-image: url("../img/icon/js.png");
 }
-#skills .container .div-card .python {
-  background-image: url("../img/icon/bootstrap.png");
+#skills .container .div-card .ts {
+  background-image: url("../img/icon/typescript.png");
 }
-#skills .container .div-card .typescript {
-  background-image: url("../img/icon/tailwind-css.png");
-}
+
+/*frameworks*/
 #skills .container .div-card .react-js {
   background-image: url("../img/icon/react-js.png");
 }
+#skills .container .div-card .next-js {
+  background-image: url("../img/icon/nextjs.png");
+}
+
+/*server framework*/
+#skills .container .div-card .node-js {
+  background-image: url("../img/icon/node-js.png");
+}
+#skills .container .div-card .express-js {
+  background-image: url("../img/icon/express-js.png");
+}
+#skills .container .div-card .nest-js {
+  background-image: url("../img/icon/nestjs.png");
+}
+
+/*database*/
+#skills .container .div-card .mongodb {
+  background-image: url("../img/icon/mongodb.png");
+}
+#skills .container .div-card .postgresql {
+  background-image: url("../img/icon/postgresql.png");
+}
+#skills .container .div-card .mysql {
+  background-image: url("../img/icon/mysql.png");
+}
+
+/*styles frameworks*/
+#skills .container .div-card .bootstrap {
+  background-image: url("../img/icon/bootstrap.png");
+}
+#skills .container .div-card .tailwind-css {
+  background-image: url("../img/icon/tailwind-css.png");
+}
+
+/*other dev language*/
 #skills .container .div-card .c {
   background-image: url("../img/icon/c.png");
+}
+#skills .container .div-card .c++ {
+  background-image: url("../img/icon/c-.png");
+}
+#skills .container .div-card .java {
+  background-image: url("../img/icon/java.png");
+}
+#skills .container .div-card .go {
+  background-image: url("../img/icon/Go.svg");
 }
 
 /*Icons - Tools & Other Skills */
@@ -705,10 +741,10 @@ h6 {
   background-image: url("../img/icon/git.png");
 }
 #skills .container .div-card .ux-ui {
-  background-image: url("../img/icon/java.png");
+  background-image: url("../img/icon/vscode.png");
 }
 #skills .container .div-card .audio-eng {
-  background-image: url("../img/icon/c-.png");
+  background-image: url("../img/icon/docker.png");
 }
 
 /*Icons - Languages */
