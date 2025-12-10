@@ -1118,7 +1118,7 @@ form.addEventListener('submit', sendEmail);
 async function getRepoList() {
   try {
     const response = await fetch(
-      "https://api.github.com/users/LakshanRukantha/repos"
+      "https://api.github.com/users/sakib-atreus/repos"
     );
     const data = await response.json();
     return data;
