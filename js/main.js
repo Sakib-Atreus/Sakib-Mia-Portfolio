@@ -883,6 +883,39 @@ form.addEventListener("submit", handleSubmit);
 
 const projectData = [
   {
+    title: "InPrep - AI Mock Interview",
+    subTitle:
+      "AI-powered mock interview platform with resume management, analytics, and subscription support.",
+    thumbnail: "./img/inprep.png",
+    description:
+      "A modern and responsive frontend for the InPrep platform — an advanced AI-powered mock interview application. This client provides a seamless user experience for practicing interviews, managing resumes, accessing analytics, and upgrading plans through Stripe. Built with React and fully integrated with the InPrep backend.",
+    techStack: ["React", "Node.js", "Express", "MongoDB"],
+    codeURL: "https://github.com/Sakib-Atreus/Inprep-client",
+    liveURL: "https://www.inprep.ai/"
+  },
+  {
+    title: "Lumora - eCommerce Platform",
+    subTitle:
+      "A scalable, high-performance eCommerce platform with advanced analytics, secure payments, and a seamless customer experience.",
+    thumbnail: "./img/lumora-ecommerce.png",
+    description:
+      "A full-featured, modern eCommerce platform. Lumora is designed with scalability, performance, and real-world business needs in mind, featuring advanced admin analytics, secure authentication, payment processing, and a smooth customer experience.",
+    techStack: ["Next.js", "NodeJS", "ExpressJS", "MongoDB", "Firebase"],
+    codeURL: "https://github.com/Sakib-Atreus/lumora-eCommerce",
+    liveURL: "https://lumora-client.vercel.app/"
+  },
+  {
+    title: "Task Manager",
+    subTitle:
+      "It helps users manage daily tasks efficiently using a clean UI, drag-and-drop workflow, analytics, and secure authentication.",
+    thumbnail: "./img/task-manager.png",
+    description:
+      "Task Manager is a minimalistic, full-stack task management web application. It helps users manage daily tasks efficiently using a clean UI, drag-and-drop workflow, analytics, and secure authentication. The application supports three task stages — Todo, Ongoing, and Completed — with real-time UI and database updates.",
+    techStack: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "Firebase"],
+    codeURL: "https://github.com/Sakib-Atreus/task-manager",
+    liveURL: "https://taskmanager-codersquad.vercel.app/"
+  },
+  {
     title: "Toy Emporium",
     subTitle:
       "You can easily generate secure and random passwords using this simple tool.",
